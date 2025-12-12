@@ -1,0 +1,5 @@
+{
+  "name": "AI Murder Mystery Console",
+  "description": "A mobile-first control console for Human-AI co-creation and agent emergence experiments in scripted murder mystery games.",
+  "requestFramePermissions": []
+}
